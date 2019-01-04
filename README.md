@@ -1,6 +1,6 @@
 # MetricsDemo
 
-## 第9章的Demo下载及更多资料：
+## 第9章的Demo下载及更多资料
 + MetricsDemo下载地址：https://github.com/das2017/MetricsDemo
 + Metrics.NET官方网站：https://github.com/Recognos/Metrics.NET 
 + InfluxDB官方文档：https://docs.influxdata.com/influxdb/v1.1/
